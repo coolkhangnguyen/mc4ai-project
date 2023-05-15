@@ -17,4 +17,4 @@ Phân bố điểm thi|Nguyễn Minh Khang(13/2)|12/05/23
 Phân bố số lượng học sinh đậu và rớt|Nguyễn Minh Khang(30/8)|12/05/23
 Phân loại các học sinh đăng kí tiếp lớp MC4AI |Nguyễn Minh Khang(13/2)|12/05/23
 
-Link demo
+Link demo sản phẩm: https://www.youtube.com/watch?v=tlox6XYn6ug
