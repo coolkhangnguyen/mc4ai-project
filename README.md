@@ -1,8 +1,8 @@
 # Danh sách thành viên
 Họ Tên|Lớp|Email
 -|-|-
-Nguyễn Minh Khang(13/2)|MC4AI|cool.minhkhang@gmail.com
-Nguyễn Minh Khang(30/8)|MC4AI|ngminhkhang2008@gmail.com
+Nguyễn Minh Khang(13/2)|10A3|cool.minhkhang@gmail.com
+Nguyễn Minh Khang(30/8)|10A3|ngminhkhang2008@gmail.com
 
 
 # Thông tin project
